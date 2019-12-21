@@ -82,8 +82,8 @@ The preferred setup is the one I will be using during the workshop on my compute
 1. ROS Tutorial page: http://wiki.ros.org/ROS/Tutorials
 
 *Uderstand the following terms:*
-	- client-server model
-	- peer-to-peer model
-	- publisher-subscriber messaging pattern
-	- request-reply messaging pattern
+- client-server model
+- peer-to-peer model
+- publisher-subscriber messaging pattern
+- request-reply messaging pattern
 
