@@ -10,7 +10,7 @@ Some examples:
 - I want to be able to communicate with a KUKA arm and visualize its position in a Unity app.
 
 The workshop will be divided into three parts:
-1. I will summarize the basic ROS functionality in a short presentatins and we will go over your problems and questions that arised during your preparation.
+1. I will summarize the basic ROS functionality in a short presentation and we will go over your problems and questions that arised during your preparation.
 2. We will write some simple ROS nodes together and go over a communication with some common hardware and software platforms (Grasshopper, Arduino, Unity etc.)
 3. We will go over your projects and try to develop a solution for your problems (or at least I will try to point you in a right direction)
 
