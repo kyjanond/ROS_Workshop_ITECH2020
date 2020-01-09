@@ -65,11 +65,20 @@ The preferred setup is the one I will be using during the workshop on my compute
    - Python: https://marketplace.visualstudio.com/items?itemName=ms-python.python
    - ROS: https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros
    - GitHub: https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github
+   - CMake:
    - If you want the exact same look as mine then download the following color and icon theme:
      - https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark
      - https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons
 
-# Reading list
+*Additional linux packages and setup:*
+vim, screen, python-pip, ros-melodic-rosserial-arduino
+sudo pip install virtualenv
+mkdir ~/.virtualenvs
+
+
+
+
+## Reading list
 *Mandatory:*
 1. M. Quigley et al., “ROS: an open-source Robot Operating System,” ICRA Work. open source Softw., vol. 3, no. 3.2, p. 5, 2009.
 2. J. M. O’Kane, A gentle introduction to ROS, no. 2.1.3. 2016.	
