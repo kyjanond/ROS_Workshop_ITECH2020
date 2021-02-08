@@ -1,16 +1,16 @@
 # ROS_Workshop_ITECH2020
 ## Introduction
 Dear participants,
-I am defining some basic requirments that I need you to fullfil before the workshop as well as some basic questions I need you to answer. Like that I will be hopefully able to prepare the right content for you.
+I am defining some basic requirements that I need you to fullfil before the workshop as well as some basic questions I need you to answer. Like that I will be hopefully able to prepare the right content for you.
 ROS is very powerful and very flexible although it is of course not a golden bullet. It gives you a basic communication framework and it has a lot of packages that will make your life easy.
 Some of the packages we will cover during the workshop (I am open to suggestions). Please try to prepare a problem or project (your thesis, seminar project etc.) for which you would like to use ROS for. 
 Some examples: 
 - I would like my robot swarm to be able to communicate their position to each other. 
-- I want to collect a sensor data from numerous different sensors and interprent the data.
+- I want to collect a sensor data from numerous different sensors and interpret the data.
 - I want to be able to communicate with a KUKA arm and visualize its position in a Unity app.
 
 The workshop will be divided into three parts:
-1. I will summarize the basic ROS functionalit in a short presentatins and we will go over your problems and questions that arised during your preparation.
+1. I will summarize the basic ROS functionality in a short presentation and we will go over your problems and questions that arised during your preparation.
 2. We will write some simple ROS nodes together and go over a communication with some common hardware and software platforms (Grasshopper, Arduino, Unity etc.)
 3. We will go over your projects and try to develop a solution for your problems (or at least I will try to point you in a right direction)
 
@@ -27,7 +27,7 @@ You can work in groups during the workshop but I need you to answer the followin
 *Can you work with Unix-like OS (OS X, GNU/Linux, etc.)?* 
 1. Unix who?? OS what?
 2. I know GNU/Linux or OS X but I've never really worked with it.
-3. I am used to work with Unix-like OS but I rarelly interface with the system through the terminal.
+3. I am used to work with Unix-like OS but I rarely interface with the system through the terminal.
 4. I am using Unix-like OS regularly as my dev environment. 
 5. I know that GNU's not unix and I know how to exit Vim. In fact I am using Windows only because I have to.
 
@@ -90,7 +90,7 @@ mkdir ~/.virtualenvs
 *Online:*
 1. ROS Tutorial page: http://wiki.ros.org/ROS/Tutorials
 
-*Uderstand the following terms:*
+*Understand the following terms:*
 - client-server model
 - peer-to-peer model
 - publisher-subscriber messaging pattern
